@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\bin\Debug\net8.0\LotteryResources.deps.json
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\bin\Debug\net8.0\LotteryResources.dll
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\bin\Debug\net8.0\LotteryResources.pdb
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.AssemblyInfo.cs
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.dll
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\refint\LotteryResources.dll
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\LotteryResources.pdb
+C:\Users\PC\source\repos\SimplifiedLotteryGame\LotteryResources\obj\Debug\net8.0\ref\LotteryResources.dll
